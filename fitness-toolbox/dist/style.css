@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hanalei+Fill&display=swap');
+
+body {
+  background-color: #42f2f5;
+  font-family: 'Roboto', sans-serif;
+}
+
+p {
+  text-align: center;
+  font-size: 50px;
+  height: 70px;
+  width: 200px;
+}
+
+#head1 {
+  font-family: 'Hanalei Fill', cursive;
+  font-size: 40px;
+  font-weight: 400;
+  text-align: center;
+}
+
+#head2 {
+  text-align: center;
+}
+
+#countdown {
+  margin: auto;
+}
+
+#eating {
+  display: inline-block;
+  width: 33%;
+}
+
+#fasting {
+  display: inline-block;
+  width: 33%;
+}
+
+#reset {
+  display: inline-block;
+  width: 33%;
+}
